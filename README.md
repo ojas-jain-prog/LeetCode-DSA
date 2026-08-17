@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ojas-jain-prog/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ojas-jain-prog/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ojas-jain-prog/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/ojas-jain-prog/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ojas-jain-prog/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/ojas-jain-prog/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
 | ------- |
